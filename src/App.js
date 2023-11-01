@@ -6,6 +6,7 @@ function App() {
       <h1>List of Name :</h1>
       <h2>1. Bilkis Ismail</h2>
       <h2>2. Ean Ajah</h2>
+      <h2>3. Mas Enno</h2>
     </>
   );
 }
