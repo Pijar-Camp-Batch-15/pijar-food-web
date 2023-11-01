@@ -11,6 +11,7 @@ function App() {
       <h2>5. Mas Alam</h2>
       <h2>6. Yongki Satria S</h2>
       <h2>7. Arsyad </h2>
+      <h2>8. yaqin </h2>
     </>
   );
 }
