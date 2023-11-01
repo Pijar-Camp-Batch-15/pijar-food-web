@@ -10,6 +10,7 @@ function App() {
       <h2>4. Mas Zaki</h2>
       <h2>5. Mas Alam</h2>
       <h2>6. Yongki Satria S</h2>
+      <h2>10. Gusti Muhammad W</h2>
     </>
   );
 }
