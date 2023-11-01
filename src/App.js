@@ -8,6 +8,7 @@ function App() {
       <h2>2. Ean Ajah</h2>
       <h2>3. Mas Enno</h2>
       <h2>4. Mas Zaki</h2>
+      <h2>5. Mas Alam</h2>
     </>
   );
 }
