@@ -14,6 +14,7 @@ function App() {
       <h2>8. Aulia Ramadhan</h2>
       <h2>9. yaqin </h2>
       <h2>10. Gusti Muhammad W</h2>
+      <h2>11. Rizqi Pratama</h2>
       <h2>12. Rayhan Ilham Sukmawan</h2>
     </>
   );
