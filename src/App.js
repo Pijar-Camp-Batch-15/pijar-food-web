@@ -13,6 +13,7 @@ function App() {
       <h2>7. Arsyad </h2>
       <h2>8. Aulia Ramadhan</h2>
       <h2>9. yaqin </h2>
+      <h2>10. Gusti Muhammad W</h2>
     </>
   );
 }
